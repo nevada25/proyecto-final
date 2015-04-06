@@ -1,0 +1,16 @@
+SMAP
+cuerpo_jsp.java
+JSP
+*S JSP
+*F
++ 0 encabesado.jsp
+encabesado.jsp
++ 1 cuerpo.jsp
+cuerpo.jsp
++ 2 piecera.jsp
+piecera.jsp
+*L
+1,15:50
+1#1,35:65
+1#2,8:100
+*E
